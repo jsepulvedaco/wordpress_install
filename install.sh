@@ -155,4 +155,4 @@ EOM
 cd "$wordpress" &&
 sudo -u $user echo "${config}"  > wp-config.php
 
-echo "Wordpress was successfully installed. To configure your wordpress site, open http://localhost/wordpress in your web browser"
+echo "Wordpress has been successfully installed. To configure your wordpress site, open http://localhost/wordpress in your web browser"
